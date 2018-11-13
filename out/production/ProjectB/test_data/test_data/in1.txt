@@ -1,0 +1,8 @@
+addplayer george,Washington,George
+addplayer jadams,Adams,John
+addplayer tom,Jefferson,Thomas
+addplayer jmadison,Madison,James
+addplayer jmonroe,Monroe,James
+displayplayer
+displayplayer jmadison
+exit

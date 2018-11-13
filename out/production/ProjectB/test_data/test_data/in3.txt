@@ -1,0 +1,11 @@
+addplayer george,Washington,George
+addplayer jadams,Adams,John
+addplayer tom,Jefferson,Thomas
+displayplayer
+removeplayer ttom
+removeplayer tom
+displayplayer
+removeplayer
+y
+displayplayer
+exit

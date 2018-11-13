@@ -1,0 +1,19 @@
+Welcome to Nim
+
+$
+$
+$
+$george,George,Washington,0 games,0 wins
+jadams,John,Adams,0 games,0 wins
+tom,Thomas,Jefferson,0 games,0 wins
+
+$The player does not exist.
+
+$
+$george,George,Washington,0 games,0 wins
+jadams,John,Adams,0 games,0 wins
+
+$Are you sure you want to remove all players? (y/n)
+
+$
+$

@@ -1,0 +1,19 @@
+addplayer jcarter,Carter,Jimmy
+displayplayer
+editplayer jcrater,Carter,James
+editplayer jcarter,Carter,James
+displayplayer
+removeplayer jcarter
+addplayer george,Washington,George
+addplayer jadams,Adams,John
+displayplayer
+startgame 10,3,george,jadams
+2
+2
+2
+1
+1
+1
+1
+rankings
+exit

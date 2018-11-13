@@ -1,0 +1,5 @@
+addplayer george,Washington,George
+addplayer george,Bush,George
+addplayer gbush,Bush,George
+displayplayer
+exit

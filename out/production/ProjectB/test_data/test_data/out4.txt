@@ -1,0 +1,50 @@
+Welcome to Nim
+
+$
+$jcarter,Jimmy,Carter,0 games,0 wins
+
+$The player does not exist.
+
+$
+$jcarter,James,Carter,0 games,0 wins
+
+$
+$
+$
+$george,George,Washington,0 games,0 wins
+jadams,John,Adams,0 games,0 wins
+
+$
+Initial stone count: 10
+Maximum stone removal: 3
+Player 1: George Washington
+Player 2: John Adams
+
+10 stones left: * * * * * * * * * *
+George's turn - remove how many?
+
+8 stones left: * * * * * * * *
+John's turn - remove how many?
+
+6 stones left: * * * * * *
+George's turn - remove how many?
+
+4 stones left: * * * *
+John's turn - remove how many?
+
+3 stones left: * * *
+George's turn - remove how many?
+
+2 stones left: * *
+John's turn - remove how many?
+
+1 stones left: *
+George's turn - remove how many?
+
+Game Over
+John Adams wins!
+
+$100% | 01 games | John Adams
+0%   | 01 games | George Washington
+
+$

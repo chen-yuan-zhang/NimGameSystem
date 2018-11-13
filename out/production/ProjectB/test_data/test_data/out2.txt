@@ -1,0 +1,10 @@
+Welcome to Nim
+
+$
+$The player already exists.
+
+$
+$gbush,George,Bush,0 games,0 wins
+george,George,Washington,0 games,0 wins
+
+$
